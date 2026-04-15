@@ -1,0 +1,15 @@
+.seccion {
+    display: none; /* Ocultas por defecto */
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+#mensaje-gracias {
+    display: none; /* Oculto por defecto */
+    padding: 20px;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    margin-top: 20px;
+}
