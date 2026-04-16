@@ -3,7 +3,7 @@ $(document).ready(function() {
     let seccionActual = Math.floor(Math.random() * 3) + 1; 
     let contadorClics = 0; 
 
-    // --- NUEVO: Mostrar el grupo basado en la sección inicial ---
+    // Mostrar el grupo basado en la sección inicial ---
     // Este texto se queda fijo aunque cambies de sección
     $('#texto-grupo').text("Eres del grupo " + seccionActual);
 
