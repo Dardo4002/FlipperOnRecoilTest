@@ -19,15 +19,15 @@
 }
 
 .color2{
-    background-color: #C2CEFF;
+    background-color: #d3ffc2;
 }
 
 .color3{
-    background-color: #afebe1;
+    background-color: #ebec8c;
 }
 
 .color4{
-    background-color: #c3e6c5;
+    background-color: #ebb3af;
 }
 
 .color5{
@@ -35,8 +35,16 @@
     color: rgb(226, 226, 226);
 }
 
+.color6{
+    background-color: #fadda6;
+}
+
 .bordeOscuro {
     border-radius: 10px;
     /* Grosor (3px), Estilo (solid) y Color */
     border: 5px solid #d3cba9; 
+}
+
+.clearLi{
+    list-style-type: none;
 }
