@@ -34,3 +34,9 @@
     background-color: #5e5e5e;
     color: rgb(226, 226, 226);
 }
+
+.bordeOscuro {
+    border-radius: 10px;
+    /* Grosor (3px), Estilo (solid) y Color */
+    border: 5px solid #d3cba9; 
+}
