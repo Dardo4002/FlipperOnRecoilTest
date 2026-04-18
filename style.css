@@ -48,3 +48,8 @@
 .clearLi{
     list-style-type: none;
 }
+
+ol{
+    text-align: left;
+    font-size: 20px;
+}
